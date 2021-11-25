@@ -22,7 +22,7 @@ A curiosity-driven data science student, eager to leverage machine learning and 
 - 📚 Books on data science [🔗](https://github.com/bradleyboehmke/bradleyboehmke/blob/master/books.md)
 - 👨🏽‍💻  I’m currently learning everything 🤣
 - 🌱 I’m currently learning Deep Learning Techniques;
-- 💬 2022 Goals: To learn three.js Or 
+- 💬 2022 Goals: To learn three.js 
 - ❤️ I love writing TypeScript, and gaming
 - 📝[Resume]
 
