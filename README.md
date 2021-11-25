@@ -44,12 +44,4 @@ A curiosity-driven data science student, eager to leverage machine learning and 
 
 
 
-<h2><i>Hire my Services:</i></h2>
-<div  align="center">
-
-  <a href="mailto:sharu8080@gmail.com" mailto="sharu8080@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
-  </a>
-
-
 </div>
