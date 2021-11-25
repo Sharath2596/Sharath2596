@@ -27,19 +27,15 @@ A curiosity-driven data science student, eager to leverage machine learning and 
 **Languages and Tools Used:**  
 
 <code><img height="20" src="https://www.sharaths.net/images/skills/R.png"></code>
-<code><img height="20" src="https://www.ashishgore.com/images/skills/python.png"></code>
+<code><img height="20" src="https://www.sharaths.net/images/skills/python.png"></code>
 <code><img height="20" src="https://www.ashishgore.com/images/skills/cloud.png"></code>
 <code><img height="20" src="https://www.ashishgore.com/images/skills/tableau.png"></code>
-<code><img height="20" src="https://www.ashishgore.com/images/skills/sql.png"></code>
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 <code><img height="20" src="https://www.ashishgore.com/images/skills/excel.png"></code>
 <code><img height="20" src="https://www.ashishgore.com/images/skills/html.png"></code>
 <code><img height="20" src="https://www.ashishgore.com/images/projects/nlp.png"></code>
 
 
-<code><img height="20" src="https://img.shields.io/badge/-CSS3-black?logo=css3&style=social"></code>
-<code><img height="20" src="https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social"></code>
-<code><img height="20" src="https://img.shields.io/badge/-Git-black?logo=git&style=social"></code>
-<code><img height="20" src="https://img.shields.io/badge/-GitHub-black?logo=github&style=social"></code>
 <br /><br />
 
 <h2><i>Visit Me Here:</i></h2>
