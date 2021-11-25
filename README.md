@@ -18,17 +18,15 @@ A curiosity-driven data science student, eager to leverage machine learning and 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 👨🏽‍💻  I’m currently learning everything 🤣
 - 🌱 I’m currently learning Deep Learning Techniques;
-- 💬 Brainstorm with me over tech, algorithms, career, and music
-- 📫 How to reach me: +;
-- ⚡ Fun fact: My first line of code was not "Hello World!"
+- 💬 2021 Goals: To learn three.js
 - 🤖 Want to Know More About me? [Chat with my Chatbot Here!!](https://www.sharaths.net/) Or 
 - 📝[Resume]
 
 **Languages and Tools Used:**  
 
-<code><img height="20" src="https://www.ashishgore.com/images/skills/R.png"></code>
+<code><img height="20" src="https://www.sharaths.net/images/skills/R.png"></code>
 <code><img height="20" src="https://www.ashishgore.com/images/skills/python.png"></code>
 <code><img height="20" src="https://www.ashishgore.com/images/skills/cloud.png"></code>
 <code><img height="20" src="https://www.ashishgore.com/images/skills/tableau.png"></code>
