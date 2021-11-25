@@ -28,7 +28,7 @@ A curiosity-driven data science student, eager to leverage machine learning and 
 
 **Languages and Tools Used:**  
 
-<code><img height="20" src="https://www.sharaths.net/images/skills/R.png"></code>
+<code><img height="20" src="https://www.ashishgore.com/images/skills/R.png"></code>
 <code><img height="20" src="https://www.ashishgore.com/images/skills/python.png"></code>
 <code><img height="20" src="https://www.ashishgore.com/images/skills/cloud.png"></code>
 <code><img height="20" src="https://www.ashishgore.com/images/skills/tableau.png"></code>
