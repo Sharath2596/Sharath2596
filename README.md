@@ -14,34 +14,28 @@
 Hi, I'm [Sharath ](https://www.sharaths.net/), I am a PGDM graduate with Business analytics.
 
 A curiosity-driven data science student, eager to leverage machine learning and data analytics to extract meaningful insights, make informed decisions and solve challenging business problems. I ensure to contribute with my knowledge, logical thinking and analytical skills towards the consistent growth and development of the organization, and enhance my experience through continuous learning and teamwork. Seeking an entry-level opportunity.
+  
+   - 🤖 Want to Know More About me? [Chat with my Chatbot Here!!](https://www.sharaths.net/)
 
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻  I’m currently learning everything 🤣
 - 🌱 I’m currently learning Deep Learning Techniques;
-- 💬 2021 Goals: To learn three.js
-- 🤖 Want to Know More About me? [Chat with my Chatbot Here!!](https://www.sharaths.net/) Or 
+- 💬 2022 Goals: To learn three.js Or 
 - 📝[Resume]
 
 **Languages and Tools Used:**  
-
-<code><img height="20" src="https://www.sharaths.net/images/skills/R.png"></code>
-<code><img height="20" src="https://www.sharaths.net/images/skills/python.png"></code>
-<code><img height="20" src="https://www.ashishgore.com/images/skills/cloud.png"></code>
-<code><img height="20" src="https://www.ashishgore.com/images/skills/tableau.png"></code>
-<code>[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-<code><img height="20" src="https://www.ashishgore.com/images/skills/excel.png"></code>
-<code><img height="20" src="https://www.ashishgore.com/images/skills/html.png"></code>
-<code><img height="20" src="https://www.ashishgore.com/images/projects/nlp.png"></code>
+ Languages: Python, JS, HTML, CSS, MySql  
 
 
+  
 <br /><br />
 
 <h2><i>Visit Me Here:</i></h2>
 <br />
 <a href="https://www.sharaths.net/">
-<p align="center"> Visit My Web Portfoilio Here:
+<p align="center"> Visit My Web Portfoilio Here: 
 </a>
 <br />
 <a href="https://www.sharaths.net/">
