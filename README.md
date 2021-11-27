@@ -15,7 +15,7 @@ Hi, I'm [Sharath ](https://www.sharaths.net/), I am a PGDM graduate with Busines
 
 A curiosity-driven data science student, eager to leverage machine learning and data analytics to extract meaningful insights, make informed decisions and solve challenging business problems. I ensure to contribute with my knowledge, logical thinking and analytical skills towards the consistent growth and development of the organization, and enhance my experience through continuous learning and teamwork. Seeking an entry-level opportunity.
   
-   - 🤖 Want to Know More About me? [Chat with my Chatbot Here!!](https://www.sharaths.net/)
+   🤖 Want to Know More About me? [Chat with my Chatbot Here!!](https://www.sharaths.net/)
 
 
 **Talking about Personal Stuffs:**
@@ -24,7 +24,7 @@ A curiosity-driven data science student, eager to leverage machine learning and 
 - 🌱 I’m currently learning Deep Learning Techniques;
 - 💬 2022 Goals: To learn three.js 
 - ❤️ I love writing TypeScript, and gaming
-- 📝[Resume](https://9730db8a-6e14-40fc-a0f4-c19ef54ac8d1.usrfiles.com/ugd/9730db_b6ff7ce1de764a4191b85758b01a9d4d.pdf)
+- 📝[Resume](https://fccaef6b-9c99-4c90-a747-d5fa24eac598.filesusr.com/ugd/9730db_9215ecb1a0e844648a94cd5e2a6717ba.pdf)
 
 **Languages and Tools Used:**  
  Languages: Python, JS, HTML, CSS, MySql  
