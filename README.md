@@ -24,7 +24,7 @@ A curiosity-driven data science student, eager to leverage machine learning and 
 - 🌱 I’m currently learning Deep Learning Techniques;
 - 💬 2022 Goals: To learn three.js 
 - ❤️ I love writing TypeScript, and gaming
-- 📝[Resume](https://fccaef6b-9c99-4c90-a747-d5fa24eac598.filesusr.com/ugd/9730db_9215ecb1a0e844648a94cd5e2a6717ba.pdf)
+- 📝[Resume](https://9730db8a-6e14-40fc-a0f4-c19ef54ac8d1.usrfiles.com/ugd/9730db_df2dda901bb04eca9d36e86bef406907.pdf)
 
 **Languages and Tools Used:**  
  Languages: Python, JS, HTML, CSS, MySql  
