@@ -11,7 +11,7 @@
 
 <br />
 
-Hi, I'm [Sharath ](https://www.sharaths.net/), I am a PGDM graduate with Business analytics.
+Hi, I'm [Sharath ](https://www.sharaths.net/), I am a PGDM/MBA graduate with Business analytics.
 
 A curiosity-driven data science student, eager to leverage machine learning and data analytics to extract meaningful insights, make informed decisions and solve challenging business problems. I ensure to contribute with my knowledge, logical thinking and analytical skills towards the consistent growth and development of the organization, and enhance my experience through continuous learning and teamwork. Seeking an entry-level opportunity.
   
