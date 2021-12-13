@@ -27,7 +27,7 @@ A curiosity-driven data science student, eager to leverage machine learning and 
 - 📝[Resume](https://9730db8a-6e14-40fc-a0f4-c19ef54ac8d1.usrfiles.com/ugd/9730db_df2dda901bb04eca9d36e86bef406907.pdf)
 
 **Languages and Tools Used:**  
- Languages: Python, JS, HTML, MySql  
+ Languages: Python, JS, HTML, MySql.  
 
 
   
