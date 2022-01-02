@@ -36,7 +36,7 @@ A curiosity-driven data science student, eager to leverage machine learning and 
 <h2><i>Visit Me Here:</i></h2>
 <br />
 <a href="https://www.sharaths.net/">
-<p align="center"> Visit My Web Portfoilio Here
+<p align="center"> Visit My Web Portfoilio Here!
 </a>
 <br />
 <a href="https://www.sharaths.net/">
