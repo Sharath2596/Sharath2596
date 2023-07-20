@@ -34,7 +34,7 @@ I am an inquisitive PGDM graduate with proficiency in Business Analytics. Driven
 <h2><i>Visit Me Here:</i></h2>
 <br />
 <a href="/">
-<p align="center"> Visit My Web Portfoilio Here!
+<p align="center">
 </a>
 <br />
 <a href="https://www.sharaths.net/">
