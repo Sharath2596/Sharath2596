@@ -19,14 +19,12 @@ I am an inquisitive PGDM graduate with proficiency in Business Analytics. Driven
 
 
 **Talking about Personal Stuffs:**
-- 📚 Books on data science [🔗](https://github.com/bradleyboehmke/bradleyboehmke/blob/master/books.md)
-- 👨🏽‍💻  I’m currently learning everything 🤣
 - 🌱 I’m currently finding ways to use Python to be more efficient and effective in business usecase;
-- 💬 2023 Goals: To learn Machine Learning
+- 💬 2023 Goals: To learn Machine Learning & Deep Learning
 - 📝[Resume](https://fccaef6b-9c99-4c90-a747-d5fa24eac598.filesusr.com/ugd/9730db_eb7a2a71dfbc46908f82e80418c4f564.pdf)
 
 **Languages and Tools Used:**  
- Languages: Python, Excel, MYSQL, PostgreSql, STATA.
+ Languages: Python, Excel, MYSQL, PostgreSql, STATA, BI tools.
 
   
 <br /><br />
