@@ -13,7 +13,7 @@
 
 Hi, I'm [Sharath ](https://www.sharaths.net/), I am a PGDM graduate with Business analytics.
 
-I am an inquisitive PGDM graduate with proficiency in Business Analytics. Driven by a passion for data science, I aspire to leverage Machine Learning and Data Analytics to derive invaluable insights, facilitate informed decision-making, and tackle intricate business complexities. Currently seeking an opportunity to foster skill growth and expand my knowledge.
+Boasting 1.5 years of solid experience in the data industry, I am actively exploring avenues to elevate my skill set and expand my proficiency in data science. My primary aim is to harness the power of Machine Learning and Data Analytics to unearth invaluable insights, support data-informed decision-making, and adeptly navigate complex business challenges. I am currently in pursuit of an opportunity that will enable me to sharpen my expertise and make meaningful contributions to the field.
   
    🤖 Want to Know More About me? [Chat with my Chatbot Here!!](/)
 
