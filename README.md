@@ -21,7 +21,7 @@ Boasting 1.5 years of solid experience in the data industry, I am actively explo
 **Talking about Personal Stuffs:**
 - 🌱 I’m currently finding ways to use Python to be more efficient and effective in business usecase;
 - 💬 2023 Goals: To learn Machine Learning & Deep Learning
-- 📝[Resume](https://fccaef6b-9c99-4c90-a747-d5fa24eac598.filesusr.com/ugd/9730db_eb7a2a71dfbc46908f82e80418c4f564.pdf)
+- 📝[Resume](https://drive.google.com/file/d/1nbA6dGdNlkyO8q3liOL5Gam1JjXxxXjc/view)
 
 **Languages and Tools Used:**  
  Languages: Python, Excel, MYSQL, PostgreSql, STATA, BI tools.
