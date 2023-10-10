@@ -20,7 +20,7 @@ Boasting 1.5 years of solid experience in the data industry, I am actively explo
 
 **Talking about Personal Stuffs:**
 - 🌱 I’m currently finding ways to use Python to be more efficient and effective in business usecase;
-- 💬 2023 Goals: To learn Machine Learning & Deep Learning
+- 💬 2023 Goals: To learn Machine Learning & Deep Learning.
 - 📝[Resume](https://drive.google.com/file/d/1feAoNABa2cBpfduiM1m03-ZBstc0TvEQ/view)
 
 **Languages and Tools Used:**  
