@@ -16,8 +16,6 @@ Hi, I'm [Sharath ](https://www.sharaths.net/), I am a PGDM graduate with Busines
 Boasting 2 years of solid experience in the data industry, I am actively exploring avenues to elevate my skill set and expand my proficiency in data science. My primary aim is to harness the power of Machine Learning and Data Analytics to unearth invaluable insights, support data-informed decision-making, and adeptly navigate complex business challenges. I am currently in pursuit of an opportunity that will enable me to sharpen my expertise and make meaningful contributions to the field.
   
  
-
-
 **Talking about Personal Stuffs:**
 - 🌱 I’m currently finding ways to use Python to be more efficient and effective in business usecase;
 - 💬 2023 Goals: To learn Machine Learning & Deep Learning.
