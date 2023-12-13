@@ -22,7 +22,7 @@ Boasting 2 years of solid experience in the data industry, I am actively explori
 - 📝[Resume](https://drive.google.com/file/d/1feAoNABa2cBpfduiM1m03-ZBstc0TvEQ/view)
 
 **Languages and Tools Used:**  
- Languages: Python, Excel, MYSQL, PostgreSql, STATA, BI tools.
+ Languages: Python, Excel, MYSQL, PostgreSql, STATA, Power BI.
 
   
 <br /><br />
